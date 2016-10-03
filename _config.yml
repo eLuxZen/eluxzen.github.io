@@ -1,0 +1,14 @@
+title: LuxZen 
+author: Erik van Luxzenburg 
+email: info@luxzen.eu 
+baseurl: "" # the subpath of your site, e.g. /blog 
+url: http://eluxzen.github.io/luxzen 
+twitter_username: eLuxZen 
+github_username: eLuxZen 
+ 
+# Build settings 
+markdown: kramdown 
+highlighter: rouge 
+encoding: utf-8 
+permalink: :year/:month/:day/:title/ 
+exclude: [vendor] 
